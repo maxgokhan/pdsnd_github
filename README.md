@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+29 th of September 2020
 
 ### Project Title
-Replace the Project Title
+Udacity Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+Analyzed bikeshare data for 3 cities using python language. Three city's bikeshare data has been analyzed.
 
 ### Files used
-Include the files used
+Three csv files have been used for this investigations. They are washington.csv, chicago.csv and new york.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/udacity/deep-reinforcement-learning
+https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree
