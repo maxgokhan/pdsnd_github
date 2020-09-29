@@ -12,4 +12,5 @@ Three csv files have been used for this investigations. They are washington.csv,
 
 ### Credits
 https://github.com/udacity/deep-reinforcement-learning
-https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree
+
+### Comment: README.md file is changed
