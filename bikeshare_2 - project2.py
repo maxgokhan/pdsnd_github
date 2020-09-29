@@ -25,6 +25,7 @@ def get_filters():
         else:
             print("Invalid city name! Please type a city name of them: chicago, new york city, washington")
     # get user input for month (all, january, february, ... , june)
+	# Description is added
     while True:    
         month = input("Please type a specific month name or type 'all' to reach results of six months ?")
         month = month.lower()
